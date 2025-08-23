@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anupvernekar31/LC-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/anupvernekar31/LC-Solutions/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/anupvernekar31/LC-Solutions/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/anupvernekar31/LC-Solutions/tree/master/0213-house-robber-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anupvernekar31/LC-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0454-4sum-ii](https://github.com/anupvernekar31/LC-Solutions/tree/master/0454-4sum-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anupvernekar31/LC-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/anupvernekar31/LC-Solutions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/anupvernekar31/LC-Solutions/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/anupvernekar31/LC-Solutions/tree/master/0213-house-robber-ii) |
 | [1013-fibonacci-number](https://github.com/anupvernekar31/LC-Solutions/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
