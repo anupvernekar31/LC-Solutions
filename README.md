@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/anupvernekar31/LC-Solutions/tree/master/0125-valid-palindrome) |
+| [0812-rotate-string](https://github.com/anupvernekar31/LC-Solutions/tree/master/0812-rotate-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -84,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/anupvernekar31/LC-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/anupvernekar31/LC-Solutions/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
