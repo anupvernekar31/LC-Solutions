@@ -26,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/anupvernekar31/LC-Solutions/tree/master/0073-set-matrix-zeroes) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/anupvernekar31/LC-Solutions/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
