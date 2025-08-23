@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/anupvernekar31/LC-Solutions/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/anupvernekar31/LC-Solutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/anupvernekar31/LC-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0063-unique-paths-ii](https://github.com/anupvernekar31/LC-Solutions/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/anupvernekar31/LC-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/anupvernekar31/LC-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/anupvernekar31/LC-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/anupvernekar31/LC-Solutions/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/anupvernekar31/LC-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/anupvernekar31/LC-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anupvernekar31/LC-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/anupvernekar31/LC-Solutions/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/anupvernekar31/LC-Solutions/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/anupvernekar31/LC-Solutions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/anupvernekar31/LC-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/anupvernekar31/LC-Solutions/tree/master/0213-house-robber-ii) |
