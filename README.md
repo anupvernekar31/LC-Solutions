@@ -133,4 +133,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anupvernekar31/LC-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/anupvernekar31/LC-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+## Depth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/anupvernekar31/LC-Solutions/tree/master/0547-number-of-provinces) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/anupvernekar31/LC-Solutions/tree/master/0547-number-of-provinces) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/anupvernekar31/LC-Solutions/tree/master/0547-number-of-provinces) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/anupvernekar31/LC-Solutions/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
