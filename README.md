@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/anupvernekar31/LC-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/anupvernekar31/LC-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/anupvernekar31/LC-Solutions/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/anupvernekar31/LC-Solutions/tree/master/0389-find-the-difference) |
 | [0454-4sum-ii](https://github.com/anupvernekar31/LC-Solutions/tree/master/0454-4sum-ii) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/anupvernekar31/LC-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Matrix
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/anupvernekar31/LC-Solutions/tree/master/0127-word-ladder) |
 | [0208-implement-trie-prefix-tree](https://github.com/anupvernekar31/LC-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/anupvernekar31/LC-Solutions/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/anupvernekar31/LC-Solutions/tree/master/0389-find-the-difference) |
 | [0812-rotate-string](https://github.com/anupvernekar31/LC-Solutions/tree/master/0812-rotate-string) |
 | [3811-reverse-degree-of-a-string](https://github.com/anupvernekar31/LC-Solutions/tree/master/3811-reverse-degree-of-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/anupvernekar31/LC-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/anupvernekar31/LC-Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/anupvernekar31/LC-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/anupvernekar31/LC-Solutions/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/anupvernekar31/LC-Solutions/tree/master/0389-find-the-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/anupvernekar31/LC-Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/anupvernekar31/LC-Solutions/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/anupvernekar31/LC-Solutions/tree/master/0389-find-the-difference) |
 ## Counting
 |  |
 | ------- |
