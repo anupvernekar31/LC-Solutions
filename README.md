@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/anupvernekar31/LC-Solutions/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anupvernekar31/LC-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/anupvernekar31/LC-Solutions/tree/master/0268-missing-number) |
+| [0374-guess-number-higher-or-lower](https://github.com/anupvernekar31/LC-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anupvernekar31/LC-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [2047-find-a-peak-element-ii](https://github.com/anupvernekar31/LC-Solutions/tree/master/2047-find-a-peak-element-ii) |
 ## Hash Table
@@ -236,4 +237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/anupvernekar31/LC-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/anupvernekar31/LC-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
