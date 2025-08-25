@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/anupvernekar31/LC-Solutions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anupvernekar31/LC-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/anupvernekar31/LC-Solutions/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/anupvernekar31/LC-Solutions/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/anupvernekar31/LC-Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/anupvernekar31/LC-Solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/anupvernekar31/LC-Solutions/tree/master/0198-house-robber) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/anupvernekar31/LC-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/anupvernekar31/LC-Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/anupvernekar31/LC-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/anupvernekar31/LC-Solutions/tree/master/0268-missing-number) |
 | [0454-4sum-ii](https://github.com/anupvernekar31/LC-Solutions/tree/master/0454-4sum-ii) |
@@ -139,11 +141,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/anupvernekar31/LC-Solutions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/anupvernekar31/LC-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/anupvernekar31/LC-Solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/anupvernekar31/LC-Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/anupvernekar31/LC-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/anupvernekar31/LC-Solutions/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/anupvernekar31/LC-Solutions/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anupvernekar31/LC-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## String Matching
 |  |
@@ -187,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/anupvernekar31/LC-Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/anupvernekar31/LC-Solutions/tree/master/0268-missing-number) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/anupvernekar31/LC-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
