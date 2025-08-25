@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/anupvernekar31/LC-Solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/anupvernekar31/LC-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/anupvernekar31/LC-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/anupvernekar31/LC-Solutions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/anupvernekar31/LC-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/anupvernekar31/LC-Solutions/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/anupvernekar31/LC-Solutions/tree/master/0120-triangle) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/anupvernekar31/LC-Solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anupvernekar31/LC-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/anupvernekar31/LC-Solutions/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/anupvernekar31/LC-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/anupvernekar31/LC-Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/anupvernekar31/LC-Solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/anupvernekar31/LC-Solutions/tree/master/0189-rotate-array) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/anupvernekar31/LC-Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/anupvernekar31/LC-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/anupvernekar31/LC-Solutions/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/anupvernekar31/LC-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/anupvernekar31/LC-Solutions/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/anupvernekar31/LC-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/anupvernekar31/LC-Solutions/tree/master/0268-missing-number) |
