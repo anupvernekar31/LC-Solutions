@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/anupvernekar31/LC-Solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/anupvernekar31/LC-Solutions/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/anupvernekar31/LC-Solutions/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/anupvernekar31/LC-Solutions/tree/master/0820-find-eventual-safe-states) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/anupvernekar31/LC-Solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/anupvernekar31/LC-Solutions/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/anupvernekar31/LC-Solutions/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/anupvernekar31/LC-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [1036-rotting-oranges](https://github.com/anupvernekar31/LC-Solutions/tree/master/1036-rotting-oranges) |
 ## Union Find
 |  |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/anupvernekar31/LC-Solutions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/anupvernekar31/LC-Solutions/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/anupvernekar31/LC-Solutions/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/anupvernekar31/LC-Solutions/tree/master/0820-find-eventual-safe-states) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -272,4 +275,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/anupvernekar31/LC-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/anupvernekar31/LC-Solutions/tree/master/0210-course-schedule-ii) |
+| [0820-find-eventual-safe-states](https://github.com/anupvernekar31/LC-Solutions/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
