@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anupvernekar31/LC-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/anupvernekar31/LC-Solutions/tree/master/0162-find-peak-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/anupvernekar31/LC-Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0189-rotate-array](https://github.com/anupvernekar31/LC-Solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/anupvernekar31/LC-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/anupvernekar31/LC-Solutions/tree/master/0213-house-robber-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anupvernekar31/LC-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/anupvernekar31/LC-Solutions/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/anupvernekar31/LC-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/anupvernekar31/LC-Solutions/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/anupvernekar31/LC-Solutions/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/anupvernekar31/LC-Solutions/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/anupvernekar31/LC-Solutions/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/anupvernekar31/LC-Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/anupvernekar31/LC-Solutions/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/anupvernekar31/LC-Solutions/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
