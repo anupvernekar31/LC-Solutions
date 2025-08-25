@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/anupvernekar31/LC-Solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/anupvernekar31/LC-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/anupvernekar31/LC-Solutions/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/anupvernekar31/LC-Solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/anupvernekar31/LC-Solutions/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/anupvernekar31/LC-Solutions/tree/master/1013-fibonacci-number) |
 ## Two Pointers
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/anupvernekar31/LC-Solutions/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/anupvernekar31/LC-Solutions/tree/master/0258-add-digits) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/anupvernekar31/LC-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3811-reverse-degree-of-a-string](https://github.com/anupvernekar31/LC-Solutions/tree/master/3811-reverse-degree-of-a-string) |
 ## Design
@@ -247,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/anupvernekar31/LC-Solutions/tree/master/0374-guess-number-higher-or-lower) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/anupvernekar31/LC-Solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
