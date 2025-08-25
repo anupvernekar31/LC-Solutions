@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/anupvernekar31/LC-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/anupvernekar31/LC-Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/anupvernekar31/LC-Solutions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/anupvernekar31/LC-Solutions/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/anupvernekar31/LC-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/anupvernekar31/LC-Solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/anupvernekar31/LC-Solutions/tree/master/0073-set-matrix-zeroes) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/anupvernekar31/LC-Solutions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/anupvernekar31/LC-Solutions/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/anupvernekar31/LC-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/anupvernekar31/LC-Solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/anupvernekar31/LC-Solutions/tree/master/0073-set-matrix-zeroes) |
@@ -209,5 +211,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/anupvernekar31/LC-Solutions/tree/master/0054-spiral-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/anupvernekar31/LC-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
