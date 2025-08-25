@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/anupvernekar31/LC-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/anupvernekar31/LC-Solutions/tree/master/0127-word-ladder) |
 | [0169-majority-element](https://github.com/anupvernekar31/LC-Solutions/tree/master/0169-majority-element) |
+| [0208-implement-trie-prefix-tree](https://github.com/anupvernekar31/LC-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/anupvernekar31/LC-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/anupvernekar31/LC-Solutions/tree/master/0268-missing-number) |
 | [0454-4sum-ii](https://github.com/anupvernekar31/LC-Solutions/tree/master/0454-4sum-ii) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/anupvernekar31/LC-Solutions/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/anupvernekar31/LC-Solutions/tree/master/0127-word-ladder) |
+| [0208-implement-trie-prefix-tree](https://github.com/anupvernekar31/LC-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/anupvernekar31/LC-Solutions/tree/master/0242-valid-anagram) |
 | [0812-rotate-string](https://github.com/anupvernekar31/LC-Solutions/tree/master/0812-rotate-string) |
 ## Dynamic Programming
@@ -213,4 +215,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/anupvernekar31/LC-Solutions/tree/master/0054-spiral-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/anupvernekar31/LC-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+## Design
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/anupvernekar31/LC-Solutions/tree/master/0208-implement-trie-prefix-tree) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/anupvernekar31/LC-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
