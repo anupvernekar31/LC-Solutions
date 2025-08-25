@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/anupvernekar31/LC-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/anupvernekar31/LC-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0967-minimum-falling-path-sum](https://github.com/anupvernekar31/LC-Solutions/tree/master/0967-minimum-falling-path-sum) |
+| [1036-rotting-oranges](https://github.com/anupvernekar31/LC-Solutions/tree/master/1036-rotting-oranges) |
 | [2047-find-a-peak-element-ii](https://github.com/anupvernekar31/LC-Solutions/tree/master/2047-find-a-peak-element-ii) |
 ## Binary Search
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/anupvernekar31/LC-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anupvernekar31/LC-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0967-minimum-falling-path-sum](https://github.com/anupvernekar31/LC-Solutions/tree/master/0967-minimum-falling-path-sum) |
+| [1036-rotting-oranges](https://github.com/anupvernekar31/LC-Solutions/tree/master/1036-rotting-oranges) |
 | [2047-find-a-peak-element-ii](https://github.com/anupvernekar31/LC-Solutions/tree/master/2047-find-a-peak-element-ii) |
 ## Math
 |  |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/anupvernekar31/LC-Solutions/tree/master/0547-number-of-provinces) |
+| [1036-rotting-oranges](https://github.com/anupvernekar31/LC-Solutions/tree/master/1036-rotting-oranges) |
 ## Union Find
 |  |
 | ------- |
