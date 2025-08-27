@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/anupvernekar31/LC-Solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anupvernekar31/LC-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/anupvernekar31/LC-Solutions/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/anupvernekar31/LC-Solutions/tree/master/0207-course-schedule) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/anupvernekar31/LC-Solutions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/anupvernekar31/LC-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anupvernekar31/LC-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0127-word-ladder](https://github.com/anupvernekar31/LC-Solutions/tree/master/0127-word-ladder) |
@@ -298,12 +300,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/anupvernekar31/LC-Solutions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/anupvernekar31/LC-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anupvernekar31/LC-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/anupvernekar31/LC-Solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/anupvernekar31/LC-Solutions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/anupvernekar31/LC-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anupvernekar31/LC-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/anupvernekar31/LC-Solutions/tree/master/0543-diameter-of-binary-tree) |
