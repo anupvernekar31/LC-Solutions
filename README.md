@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/anupvernekar31/LC-Solutions/tree/master/0283-move-zeroes) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/anupvernekar31/LC-Solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0454-4sum-ii](https://github.com/anupvernekar31/LC-Solutions/tree/master/0454-4sum-ii) |
+| [0455-assign-cookies](https://github.com/anupvernekar31/LC-Solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/anupvernekar31/LC-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/anupvernekar31/LC-Solutions/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anupvernekar31/LC-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/anupvernekar31/LC-Solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/anupvernekar31/LC-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/anupvernekar31/LC-Solutions/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/anupvernekar31/LC-Solutions/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/anupvernekar31/LC-Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/anupvernekar31/LC-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/anupvernekar31/LC-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/anupvernekar31/LC-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/anupvernekar31/LC-Solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/anupvernekar31/LC-Solutions/tree/master/0389-find-the-difference) |
+| [0455-assign-cookies](https://github.com/anupvernekar31/LC-Solutions/tree/master/0455-assign-cookies) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anupvernekar31/LC-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0455-assign-cookies](https://github.com/anupvernekar31/LC-Solutions/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/anupvernekar31/LC-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 ## Depth-First Search
 |  |
