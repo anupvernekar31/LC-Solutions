@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/anupvernekar31/LC-Solutions/tree/master/0542-01-matrix) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/anupvernekar31/LC-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/anupvernekar31/LC-Solutions/tree/master/0733-flood-fill) |
+| [0907-koko-eating-bananas](https://github.com/anupvernekar31/LC-Solutions/tree/master/0907-koko-eating-bananas) |
 | [0967-minimum-falling-path-sum](https://github.com/anupvernekar31/LC-Solutions/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/anupvernekar31/LC-Solutions/tree/master/1036-rotting-oranges) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/anupvernekar31/LC-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/anupvernekar31/LC-Solutions/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/anupvernekar31/LC-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anupvernekar31/LC-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0907-koko-eating-bananas](https://github.com/anupvernekar31/LC-Solutions/tree/master/0907-koko-eating-bananas) |
 | [2047-find-a-peak-element-ii](https://github.com/anupvernekar31/LC-Solutions/tree/master/2047-find-a-peak-element-ii) |
 ## Hash Table
 |  |
