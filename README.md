@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/anupvernekar31/LC-Solutions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/anupvernekar31/LC-Solutions/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/anupvernekar31/LC-Solutions/tree/master/0412-fizz-buzz) |
+| [0516-longest-palindromic-subsequence](https://github.com/anupvernekar31/LC-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0812-rotate-string](https://github.com/anupvernekar31/LC-Solutions/tree/master/0812-rotate-string) |
 | [3811-reverse-degree-of-a-string](https://github.com/anupvernekar31/LC-Solutions/tree/master/3811-reverse-degree-of-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/anupvernekar31/LC-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/anupvernekar31/LC-Solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/anupvernekar31/LC-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/anupvernekar31/LC-Solutions/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/anupvernekar31/LC-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/anupvernekar31/LC-Solutions/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/anupvernekar31/LC-Solutions/tree/master/0542-01-matrix) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/anupvernekar31/LC-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
