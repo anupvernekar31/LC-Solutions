@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/anupvernekar31/LC-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/anupvernekar31/LC-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/anupvernekar31/LC-Solutions/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/anupvernekar31/LC-Solutions/tree/master/0141-linked-list-cycle) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/anupvernekar31/LC-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/anupvernekar31/LC-Solutions/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/anupvernekar31/LC-Solutions/tree/master/0127-word-ladder) |
 | [0208-implement-trie-prefix-tree](https://github.com/anupvernekar31/LC-Solutions/tree/master/0208-implement-trie-prefix-tree) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/anupvernekar31/LC-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0658-find-k-closest-elements](https://github.com/anupvernekar31/LC-Solutions/tree/master/0658-find-k-closest-elements) |
 ## Bucket Sort
 |  |
