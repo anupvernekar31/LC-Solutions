@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/anupvernekar31/LC-Solutions/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anupvernekar31/LC-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/anupvernekar31/LC-Solutions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/anupvernekar31/LC-Solutions/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anupvernekar31/LC-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/anupvernekar31/LC-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/anupvernekar31/LC-Solutions/tree/master/0283-move-zeroes) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/anupvernekar31/LC-Solutions/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/anupvernekar31/LC-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/anupvernekar31/LC-Solutions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/anupvernekar31/LC-Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/anupvernekar31/LC-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/anupvernekar31/LC-Solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/anupvernekar31/LC-Solutions/tree/master/0347-top-k-frequent-elements) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/anupvernekar31/LC-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anupvernekar31/LC-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/anupvernekar31/LC-Solutions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/anupvernekar31/LC-Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/anupvernekar31/LC-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/anupvernekar31/LC-Solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/anupvernekar31/LC-Solutions/tree/master/0347-top-k-frequent-elements) |
@@ -330,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/anupvernekar31/LC-Solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/anupvernekar31/LC-Solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/anupvernekar31/LC-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/anupvernekar31/LC-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Simulation
