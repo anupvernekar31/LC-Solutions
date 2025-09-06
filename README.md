@@ -353,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/anupvernekar31/LC-Solutions/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/anupvernekar31/LC-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 ## Trie
 |  |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anupvernekar31/LC-Solutions/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/anupvernekar31/LC-Solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/anupvernekar31/LC-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/anupvernekar31/LC-Solutions/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/anupvernekar31/LC-Solutions/tree/master/0735-asteroid-collision) |
