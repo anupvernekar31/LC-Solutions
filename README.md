@@ -396,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/anupvernekar31/LC-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anupvernekar31/LC-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/anupvernekar31/LC-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/anupvernekar31/LC-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/anupvernekar31/LC-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anupvernekar31/LC-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/anupvernekar31/LC-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/anupvernekar31/LC-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 ## Stack
 |  |
 | ------- |
@@ -460,4 +462,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/anupvernekar31/LC-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/anupvernekar31/LC-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/anupvernekar31/LC-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/anupvernekar31/LC-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
