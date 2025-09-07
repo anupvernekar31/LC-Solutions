@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/anupvernekar31/LC-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/anupvernekar31/LC-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1129-longest-string-chain](https://github.com/anupvernekar31/LC-Solutions/tree/master/1129-longest-string-chain) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/anupvernekar31/LC-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/anupvernekar31/LC-Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/anupvernekar31/LC-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/anupvernekar31/LC-Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/anupvernekar31/LC-Solutions/tree/master/0733-flood-fill) |
 | [0967-minimum-falling-path-sum](https://github.com/anupvernekar31/LC-Solutions/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/anupvernekar31/LC-Solutions/tree/master/1036-rotting-oranges) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/anupvernekar31/LC-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2047-find-a-peak-element-ii](https://github.com/anupvernekar31/LC-Solutions/tree/master/2047-find-a-peak-element-ii) |
 ## Math
 |  |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/anupvernekar31/LC-Solutions/tree/master/1013-fibonacci-number) |
 | [1129-longest-string-chain](https://github.com/anupvernekar31/LC-Solutions/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/anupvernekar31/LC-Solutions/tree/master/1170-shortest-common-supersequence) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/anupvernekar31/LC-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/anupvernekar31/LC-Solutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Recursion
 |  |
