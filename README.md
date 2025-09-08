@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anupvernekar31/LC-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0044-wildcard-matching](https://github.com/anupvernekar31/LC-Solutions/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/anupvernekar31/LC-Solutions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/anupvernekar31/LC-Solutions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/anupvernekar31/LC-Solutions/tree/master/0125-valid-palindrome) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anupvernekar31/LC-Solutions/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/anupvernekar31/LC-Solutions/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/anupvernekar31/LC-Solutions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/anupvernekar31/LC-Solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/anupvernekar31/LC-Solutions/tree/master/0063-unique-paths-ii) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/anupvernekar31/LC-Solutions/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/anupvernekar31/LC-Solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/anupvernekar31/LC-Solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/anupvernekar31/LC-Solutions/tree/master/0234-palindrome-linked-list) |
@@ -308,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/anupvernekar31/LC-Solutions/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anupvernekar31/LC-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/anupvernekar31/LC-Solutions/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/anupvernekar31/LC-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
