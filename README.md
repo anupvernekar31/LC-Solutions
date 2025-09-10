@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/anupvernekar31/LC-Solutions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/anupvernekar31/LC-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/anupvernekar31/LC-Solutions/tree/master/0368-largest-divisible-subset) |
+| [0410-split-array-largest-sum](https://github.com/anupvernekar31/LC-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/anupvernekar31/LC-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0454-4sum-ii](https://github.com/anupvernekar31/LC-Solutions/tree/master/0454-4sum-ii) |
 | [0455-assign-cookies](https://github.com/anupvernekar31/LC-Solutions/tree/master/0455-assign-cookies) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/anupvernekar31/LC-Solutions/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/anupvernekar31/LC-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/anupvernekar31/LC-Solutions/tree/master/0374-guess-number-higher-or-lower) |
+| [0410-split-array-largest-sum](https://github.com/anupvernekar31/LC-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anupvernekar31/LC-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/anupvernekar31/LC-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0907-koko-eating-bananas](https://github.com/anupvernekar31/LC-Solutions/tree/master/0907-koko-eating-bananas) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/anupvernekar31/LC-Solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/anupvernekar31/LC-Solutions/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/anupvernekar31/LC-Solutions/tree/master/0368-largest-divisible-subset) |
+| [0410-split-array-largest-sum](https://github.com/anupvernekar31/LC-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/anupvernekar31/LC-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/anupvernekar31/LC-Solutions/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/anupvernekar31/LC-Solutions/tree/master/0516-longest-palindromic-subsequence) |
@@ -317,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/anupvernekar31/LC-Solutions/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anupvernekar31/LC-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0410-split-array-largest-sum](https://github.com/anupvernekar31/LC-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/anupvernekar31/LC-Solutions/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/anupvernekar31/LC-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 ## Depth-First Search
@@ -513,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/anupvernekar31/LC-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/anupvernekar31/LC-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/anupvernekar31/LC-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/anupvernekar31/LC-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
