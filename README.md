@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/anupvernekar31/LC-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/anupvernekar31/LC-Solutions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/anupvernekar31/LC-Solutions/tree/master/0389-find-the-difference) |
+| [0402-remove-k-digits](https://github.com/anupvernekar31/LC-Solutions/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/anupvernekar31/LC-Solutions/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/anupvernekar31/LC-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/anupvernekar31/LC-Solutions/tree/master/0516-longest-palindromic-subsequence) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/anupvernekar31/LC-Solutions/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anupvernekar31/LC-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0402-remove-k-digits](https://github.com/anupvernekar31/LC-Solutions/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/anupvernekar31/LC-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/anupvernekar31/LC-Solutions/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/anupvernekar31/LC-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -469,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/anupvernekar31/LC-Solutions/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/anupvernekar31/LC-Solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/anupvernekar31/LC-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/anupvernekar31/LC-Solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/anupvernekar31/LC-Solutions/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/anupvernekar31/LC-Solutions/tree/master/0735-asteroid-collision) |
 ## Merge Sort
@@ -480,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anupvernekar31/LC-Solutions/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/anupvernekar31/LC-Solutions/tree/master/0085-maximal-rectangle) |
+| [0402-remove-k-digits](https://github.com/anupvernekar31/LC-Solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/anupvernekar31/LC-Solutions/tree/master/0496-next-greater-element-i) |
 ## Backtracking
 |  |
