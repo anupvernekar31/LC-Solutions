@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/anupvernekar31/LC-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/anupvernekar31/LC-Solutions/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/anupvernekar31/LC-Solutions/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/anupvernekar31/LC-Solutions/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/anupvernekar31/LC-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/anupvernekar31/LC-Solutions/tree/master/0070-climbing-stairs) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/anupvernekar31/LC-Solutions/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/anupvernekar31/LC-Solutions/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/anupvernekar31/LC-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/anupvernekar31/LC-Solutions/tree/master/0231-power-of-two) |
