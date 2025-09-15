@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/anupvernekar31/LC-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/anupvernekar31/LC-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1129-longest-string-chain](https://github.com/anupvernekar31/LC-Solutions/tree/master/1129-longest-string-chain) |
+| [1370-count-number-of-nice-subarrays](https://github.com/anupvernekar31/LC-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/anupvernekar31/LC-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/anupvernekar31/LC-Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/anupvernekar31/LC-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/anupvernekar31/LC-Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0966-binary-subarrays-with-sum](https://github.com/anupvernekar31/LC-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1129-longest-string-chain](https://github.com/anupvernekar31/LC-Solutions/tree/master/1129-longest-string-chain) |
+| [1370-count-number-of-nice-subarrays](https://github.com/anupvernekar31/LC-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/anupvernekar31/LC-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Matrix
 |  |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/anupvernekar31/LC-Solutions/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/anupvernekar31/LC-Solutions/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/anupvernekar31/LC-Solutions/tree/master/1014-k-closest-points-to-origin) |
+| [1370-count-number-of-nice-subarrays](https://github.com/anupvernekar31/LC-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -569,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/anupvernekar31/LC-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0966-binary-subarrays-with-sum](https://github.com/anupvernekar31/LC-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/anupvernekar31/LC-Solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/anupvernekar31/LC-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/anupvernekar31/LC-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Bucket Sort
 |  |
@@ -585,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/anupvernekar31/LC-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/anupvernekar31/LC-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/anupvernekar31/LC-Solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/anupvernekar31/LC-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/anupvernekar31/LC-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Binary Search Tree
 |  |
