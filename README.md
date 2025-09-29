@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/anupvernekar31/LC-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/anupvernekar31/LC-Solutions/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/anupvernekar31/LC-Solutions/tree/master/0735-asteroid-collision) |
+| [0890-lemonade-change](https://github.com/anupvernekar31/LC-Solutions/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/anupvernekar31/LC-Solutions/tree/master/0907-koko-eating-bananas) |
 | [0943-sum-of-subarray-minimums](https://github.com/anupvernekar31/LC-Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/anupvernekar31/LC-Solutions/tree/master/0966-binary-subarrays-with-sum) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/anupvernekar31/LC-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/anupvernekar31/LC-Solutions/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/anupvernekar31/LC-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0890-lemonade-change](https://github.com/anupvernekar31/LC-Solutions/tree/master/0890-lemonade-change) |
 ## Depth-First Search
 |  |
 | ------- |
