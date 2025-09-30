@@ -1,6 +1,4 @@
 class Solution {
-
-
     public static int findDays(int[] weights, int cap) {
         int days = 1; //First day.
         int load = 0;
