@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/anupvernekar31/LC-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/anupvernekar31/LC-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/anupvernekar31/LC-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0721-accounts-merge](https://github.com/anupvernekar31/LC-Solutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/anupvernekar31/LC-Solutions/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/anupvernekar31/LC-Solutions/tree/master/0735-asteroid-collision) |
 | [0890-lemonade-change](https://github.com/anupvernekar31/LC-Solutions/tree/master/0890-lemonade-change) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/anupvernekar31/LC-Solutions/tree/master/0454-4sum-ii) |
 | [0496-next-greater-element-i](https://github.com/anupvernekar31/LC-Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/anupvernekar31/LC-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0721-accounts-merge](https://github.com/anupvernekar31/LC-Solutions/tree/master/0721-accounts-merge) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/anupvernekar31/LC-Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0966-binary-subarrays-with-sum](https://github.com/anupvernekar31/LC-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/anupvernekar31/LC-Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/anupvernekar31/LC-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/anupvernekar31/LC-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/anupvernekar31/LC-Solutions/tree/master/0583-delete-operation-for-two-strings) |
+| [0721-accounts-merge](https://github.com/anupvernekar31/LC-Solutions/tree/master/0721-accounts-merge) |
 | [0812-rotate-string](https://github.com/anupvernekar31/LC-Solutions/tree/master/0812-rotate-string) |
 | [1129-longest-string-chain](https://github.com/anupvernekar31/LC-Solutions/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/anupvernekar31/LC-Solutions/tree/master/1170-shortest-common-supersequence) |
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/anupvernekar31/LC-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/anupvernekar31/LC-Solutions/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/anupvernekar31/LC-Solutions/tree/master/0658-find-k-closest-elements) |
+| [0721-accounts-merge](https://github.com/anupvernekar31/LC-Solutions/tree/master/0721-accounts-merge) |
 | [1014-k-closest-points-to-origin](https://github.com/anupvernekar31/LC-Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1129-longest-string-chain](https://github.com/anupvernekar31/LC-Solutions/tree/master/1129-longest-string-chain) |
 ## Divide and Conquer
@@ -397,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/anupvernekar31/LC-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/anupvernekar31/LC-Solutions/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/anupvernekar31/LC-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/anupvernekar31/LC-Solutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/anupvernekar31/LC-Solutions/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/anupvernekar31/LC-Solutions/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/anupvernekar31/LC-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -423,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/anupvernekar31/LC-Solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/anupvernekar31/LC-Solutions/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/anupvernekar31/LC-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/anupvernekar31/LC-Solutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/anupvernekar31/LC-Solutions/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/anupvernekar31/LC-Solutions/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/anupvernekar31/LC-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -438,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/anupvernekar31/LC-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/anupvernekar31/LC-Solutions/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/anupvernekar31/LC-Solutions/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/anupvernekar31/LC-Solutions/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/anupvernekar31/LC-Solutions/tree/master/0801-is-graph-bipartite) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/anupvernekar31/LC-Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/anupvernekar31/LC-Solutions/tree/master/1442-number-of-operations-to-make-network-connected) |
