@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/anupvernekar31/LC-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/anupvernekar31/LC-Solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/anupvernekar31/LC-Solutions/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/anupvernekar31/LC-Solutions/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/anupvernekar31/LC-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0410-split-array-largest-sum](https://github.com/anupvernekar31/LC-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/anupvernekar31/LC-Solutions/tree/master/0416-partition-equal-subset-sum) |
@@ -476,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/anupvernekar31/LC-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/anupvernekar31/LC-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/anupvernekar31/LC-Solutions/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/anupvernekar31/LC-Solutions/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/anupvernekar31/LC-Solutions/tree/master/0389-find-the-difference) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/anupvernekar31/LC-Solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Counting
